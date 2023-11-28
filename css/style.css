@@ -1,0 +1,33 @@
+.bannerBgImage{
+    height: 100vh;
+    background: url("/images/bannerimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:relative;
+}
+.bannerText {
+    height: 90vh;
+    background: url("/images/picture.png");
+    background-size:contain;
+    background-repeat: no-repeat;
+    position:relative;
+}
+.bannerTitle{
+    font-style:oblique;
+    font-size: 4rem;
+}
+.bannerDesc{
+    font-size: 2rem;
+}
+.img-fluid:hover{
+    border: 2px solid yellowgreen;
+}
+.card:hover{
+    background-color:azure;
+    border: 2px solid yellow;
+}
+.bIcon:hover{
+    background-color:aqua;
+    border: 2px solid yellowgreen;
+
+}
